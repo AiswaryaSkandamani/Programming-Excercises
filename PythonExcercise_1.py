@@ -14,8 +14,6 @@ def sum(a,b):
     except ValueError:
         print("Enter only numeric values")       
 a,b = (input(),input())
-        #a = input()
-        #b = input()
 sum(a,b)
 
 
